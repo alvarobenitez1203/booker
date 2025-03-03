@@ -1,0 +1,20 @@
+
+                .o_company_1_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: #af6167;
+                    }
+                    #informations strong {
+                        color: #342e2a;
+                    }
+                    #total strong{
+                        color: #af6167;
+                    }
+                    table {
+                        thead {
+                            color: #342e2a;
+                        }
+                    }
+                }
+            }
